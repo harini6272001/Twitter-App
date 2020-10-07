@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough:
 
-<img src="http://g.recordit.co/YU6u28VDMa.gif" width=250><br>
+<img src="http://g.recordit.co/dsn8dDIaIK.gif" width=250><br>
